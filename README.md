@@ -41,5 +41,5 @@ My name is Criss, and I am a fullstack JavaScript developer.
 <br />
 
 #![snake gif](https://github.com/crissguinther/crissguinther/blob/output/github-contribution-grid-snake.gif)
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](https://github.com/crissguinther/crissguinther/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://github.com/crissguinther/crissguinther/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
