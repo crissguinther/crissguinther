@@ -11,7 +11,8 @@ My name is Criss, and I am a fullstack JavaScript developer.
 ### Connect With Me:
 <a href="https://www.linkedin.com/in/criss-guinther-32445a233/">
 <img align="left" alt="Linkedin" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="22px" height="22px">  
- </a>
+</a>  
+
 
 ### Languages and tools:
 
