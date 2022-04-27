@@ -12,7 +12,7 @@ My name is Criss, and I am a fullstack JavaScript developer.
 <a href="https://www.linkedin.com/in/criss-guinther-32445a233/">
 <img align="left" alt="Linkedin" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="22px" height="22px">  
 </a>  
-
+<br />
 
 ### Languages and tools:
 
@@ -26,4 +26,11 @@ My name is Criss, and I am a fullstack JavaScript developer.
 
 <img align="left" alt="React" src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" width="22px" height="22px" />
 
+--- 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crissguinther&count_private=true&show_icons=true&theme=radical&border_color=#900C3F)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crissguinther&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=crissguinther&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
