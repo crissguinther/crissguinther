@@ -1,6 +1,5 @@
 ### Hi there stranger ✌
-
-## Who am I?
+<hr />
 My name is Criss, and I am a fullstack JavaScript developer. 
 
 - Currently studying Java while working on some projects.
@@ -37,3 +36,4 @@ My name is Criss, and I am a fullstack JavaScript developer.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crissguinther&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![snake gif](https://github.com/crissguinther/crissguinther/blob/output/github-contribution-grid-snake.gif)
