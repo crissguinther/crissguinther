@@ -36,3 +36,6 @@ My name is Criss, and I am a fullstack JavaScript developer.
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crissguinther&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
