@@ -24,20 +24,4 @@ My name is Criss, and I am a fullstack JavaScript developer.
 
 <img align="left" alt="React" src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" width="22px" height="22px" />
 
-<br />
-<hr />
-<br />
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crissguinther&count_private=true&show_icons=true&theme=radical&border_color=#900C3F)](https://github.com/anuraghazra/github-readme-stats)
-<br />
-<hr />
-<br />
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crissguinther&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<br />
-<hr />
-<br />
-
-![GitHub Snake Light](https://github.com/crissguinther/crissguinther/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](https://github.com/crissguinther/crissguinther/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
