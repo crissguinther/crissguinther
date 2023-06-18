@@ -1,27 +1,14 @@
 ### Hi there stranger ✌
 <hr />
-My name is Criss, and I am a fullstack JavaScript developer. 
 
-- Currently studying Java while working on some projects.
-- I learn a lot of things, from math to writing.
-- I am looking for opportunites to collaborate with another devs
-- Fun fact: I also play violin
+Hey there, folks! I'm Criss, your friendly neighborhood fullstack .NET developer, rocking it out in the JavaScript echosystem. Yep, you heard that right—I'm the real deal when it comes to juggling code on both ends of the stack.
 
-### Connect With Me:
-<a href="https://www.linkedin.com/in/criss-guinther-32445a233/">
-<img align="left" alt="Linkedin" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="22px" height="22px">  
-</a><br />
+Currently, I'm hustling with a SAAS producet (you know, that fancy software-as-a-service thingy). But hey, I don't stop there! I'm all about staying on top of my game by cooking up personal projects that'll blow your socks off. Trust me, you won't want to miss what I've got in store for you.
 
-### Languages and tools:
+Oh, and let's not forget about my mission—I'm all about making life easier and better for everyone. That's right, I'm building projects with the sole purpose of helping you fine folks achieve greatness. Talk about being a superhero developer, am I right?
 
-<img align="left" alt="HTML5" src="https://cdn-icons-png.flaticon.com/512/174/174854.png" width="22px" height="22px" />
+Now, let's rewind a bit. It all started back in 2013 when I first dipped my toes into the vast ocean of knowledge. Fast forward to 2019, and I made the epic decision to dive headfirst into the developer world. Web development was my chosen path, but hey, I'm not stopping there. I've got my sights set on acquiring some serious cyber security skills to bring even more value to the table. Talk about being a versatile coding ninja!
 
-<img align="left" alt="CSS3" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="22px" height="22px" />
+Wanna get in touch? Drop me a message or connect with me on [LinkedIn](https://www.linkedin.com/in/criss-guinther-32445a233/). Just a heads up, though—I may take my sweet time to get back to you there. But hey, good things come to those who wait, right?
 
-<img align="left" alt="JS" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="22px" height="22px" />
-
-<img align="left" alt="PHP" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" width="22px" height="22px" />
-
-<img align="left" alt="React" src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" width="22px" height="22px" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crissguinther&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+Stay awesome, folks! Criss out.
